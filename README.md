@@ -13,3 +13,5 @@
    - `port1.postMessage` is used to update the `textContent` attribute of the `#message-output` paragraph element.
 
 ![channel messaging demo video](https://storage.fleek-internal.com/tgrecojs-74725-team-bucket/securejs/channel-message-demo.mp4)
+
+<video width="500px" controls src="https://storage.fleek-internal.com/tgrecojs-74725-team-bucket/securejs/channel-message-demo.mp4" ></video>
